@@ -1,11 +1,4 @@
-accelerate==0.15.0
-bitsandbytes==0.35.4
-diffusers==0.10.2
-ftfy==6.1.1
-Pillow==9.3.0
-torch==1.13.0
-torchvision==0.14.0
-transformers==4.25.1
-triton==2.0.0.dev20221030
-xformers==0.0.13
-clip_retrieval
+asgiref==3.6.0
+Django==4.2
+sqlparse==0.4.3
+tzdata==2023.3
